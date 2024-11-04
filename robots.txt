@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iheyiinu.github.io/Vdv/sitemap_index.txt
+Sitemap: https://iheyiinu.github.io/gwP/sitemap_index.txt
+Sitemap: https://iheyiinu.github.io/kQO/sitemap_index.txt
+Sitemap: https://iheyiinu.github.io/moi/sitemap_index.txt
